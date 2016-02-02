@@ -1,4 +1,6 @@
 # ScatterBokeh
+An ipython notebook. Also view on http://nbviewer.jupyter.org/github/kriete/ScatterBokeh/blob/master/ScatterBokeh.ipynb
+
 ## Purpose
 The idea is to generate a bokeh graph to interactively explore 2.5 dimensional scattered data from a netCDF document.
 
